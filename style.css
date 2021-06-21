@@ -94,3 +94,33 @@ p{
 #work{
     text-align:center;
 }
+footer{
+    display:flex;
+    justify-content:flex-end;
+    padding:16px;
+}
+#scrolltotop{
+    background-color:black;
+    border-radius:15%;
+    color:white;
+    cursor:pointer;
+    font-size:35px;
+    line-height:48px;
+    width:48px;
+}
+#contact{
+    background-color:firebrick;
+}
+#contact iframe{
+    width:100%;
+}
+.contact1 h3{
+    display:inline;
+}
+.contact1 a{
+    color:white;
+    text-shadow:none;
+}
+.contact1{
+    text-align:center;
+}
